@@ -1,0 +1,215 @@
+2019-02-18 17:52:40,302 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 17:52:40,534 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 17:52:40,635 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 17:52:40,638 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 17:52:40,639 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 17:52:40,639 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 17:52:40,641 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 17:52:40,797 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 17:52:41,255 INFO  UpdateStudentDemo [UpdateStudentDemo.java:37] getting the student from the db with id 1
+2019-02-18 17:52:41,277 INFO  UpdateStudentDemo [UpdateStudentDemo.java:43] received student: {}Student{id=1, firstName='John', lastName='Doe', email='john@bara.com'}
+2019-02-18 17:52:41,277 INFO  UpdateStudentDemo [UpdateStudentDemo.java:45] updating student...
+2019-02-18 17:52:41,296 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 17:54:53,602 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 17:54:53,851 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 17:54:53,973 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 17:54:53,977 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 17:54:53,977 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 17:54:53,978 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 17:54:53,979 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 17:54:54,201 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 17:54:54,655 INFO  UpdateStudentDemo [UpdateStudentDemo.java:37] getting the student from the db with id 1
+2019-02-18 17:54:54,675 INFO  UpdateStudentDemo [UpdateStudentDemo.java:43] received student: {}Student{id=1, firstName='Scooby', lastName='Doe', email='john@bara.com'}
+2019-02-18 17:54:54,675 INFO  UpdateStudentDemo [UpdateStudentDemo.java:45] updating student...
+2019-02-18 17:54:54,694 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 17:55:32,788 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 17:55:33,023 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 17:55:33,166 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 17:55:33,170 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 17:55:33,170 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 17:55:33,171 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 17:55:33,173 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 17:55:33,312 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 17:55:33,750 INFO  UpdateStudentDemo [UpdateStudentDemo.java:37] getting the student from the db with id 1
+2019-02-18 17:55:33,772 INFO  UpdateStudentDemo [UpdateStudentDemo.java:43] received student: {}Student{id=1, firstName='Boom', lastName='Doe', email='john@bara.com'}
+2019-02-18 17:55:33,772 INFO  UpdateStudentDemo [UpdateStudentDemo.java:45] updating student...
+2019-02-18 17:55:33,777 INFO  UpdateStudentDemo [UpdateStudentDemo.java:58] getting getting updated student info
+2019-02-18 17:55:33,778 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 17:56:21,783 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 17:56:22,046 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 17:56:22,182 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 17:56:22,186 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 17:56:22,187 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 17:56:22,187 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 17:56:22,189 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 17:56:22,354 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 17:56:22,814 INFO  UpdateStudentDemo [UpdateStudentDemo.java:37] getting the student from the db with id 1
+2019-02-18 17:56:22,838 INFO  UpdateStudentDemo [UpdateStudentDemo.java:43] received student: {}Student{id=1, firstName='Boom', lastName='Doe', email='john@bara.com'}
+2019-02-18 17:56:22,838 INFO  UpdateStudentDemo [UpdateStudentDemo.java:45] updating student...
+2019-02-18 17:56:22,852 INFO  UpdateStudentDemo [UpdateStudentDemo.java:58] getting getting updated student info Student{id=1, firstName='Suck', lastName='Doe', email='john@bara.com'}
+2019-02-18 17:56:22,853 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:49:04,754 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 18:49:05,265 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 18:49:05,460 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 18:49:05,465 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:49:05,466 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 18:49:05,466 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 18:49:05,469 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 18:49:05,713 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 18:49:06,296 INFO  UpdateStudentDemo [UpdateStudentDemo.java:37] getting the student from the db with id 1
+2019-02-18 18:49:06,341 INFO  UpdateStudentDemo [UpdateStudentDemo.java:43] received student: {}Student{id=1, firstName='Suck', lastName='Doe', email='john@bara.com'}
+2019-02-18 18:49:06,341 INFO  UpdateStudentDemo [UpdateStudentDemo.java:45] updating student...
+2019-02-18 18:49:06,347 INFO  UpdateStudentDemo [UpdateStudentDemo.java:58] getting getting updated student info Student{id=1, firstName='Suck', lastName='Doe', email='john@bara.com'}
+2019-02-18 18:49:06,347 INFO  UpdateStudentDemo [UpdateStudentDemo.java:65] Update email for all students
+2019-02-18 18:49:06,430 INFO  UpdateStudentDemo [UpdateStudentDemo.java:79] getting getting updated student info Student{id=1, firstName='Suck', lastName='Doe', email='foo@gmail.com'}
+2019-02-18 18:49:06,431 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:52:43,326 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 18:52:43,571 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 18:52:43,690 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 18:52:43,694 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:52:43,694 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 18:52:43,695 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 18:52:43,697 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 18:52:43,831 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 18:52:44,256 INFO  DeleteStudentDemo [DeleteStudentDemo.java:34] getting the student from the db with id 1
+2019-02-18 18:52:44,277 INFO  DeleteStudentDemo [DeleteStudentDemo.java:40] received student: {}Student{id=1, firstName='Suck', lastName='Doe', email='foo@gmail.com'}
+2019-02-18 18:52:44,277 INFO  DeleteStudentDemo [DeleteStudentDemo.java:42] deleting student...
+2019-02-18 18:52:44,438 INFO  DeleteStudentDemo [DeleteStudentDemo.java:55] getting getting updated student info null
+2019-02-18 18:52:44,439 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:54:11,289 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 18:54:11,563 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 18:54:11,684 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 18:54:11,689 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:54:11,689 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 18:54:11,690 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 18:54:11,692 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 18:54:11,828 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 18:54:12,335 INFO  DeleteStudentDemo [DeleteStudentDemo.java:34] getting the student from the db with id 2
+2019-02-18 18:54:12,365 INFO  DeleteStudentDemo [DeleteStudentDemo.java:40] received student: {}Student{id=2, firstName='Mary', lastName='Public', email='foo@gmail.com'}
+2019-02-18 18:54:12,365 INFO  DeleteStudentDemo [DeleteStudentDemo.java:42] deleting student...
+2019-02-18 18:54:12,453 INFO  DeleteStudentDemo [DeleteStudentDemo.java:54] getting getting updated student info Student{id=2, firstName='Mary', lastName='Public', email='foo@gmail.com'}
+2019-02-18 18:54:12,455 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:55:15,113 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 18:55:15,414 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 18:55:15,535 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 18:55:15,538 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:55:15,539 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 18:55:15,539 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 18:55:15,541 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 18:55:15,680 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 18:55:16,153 INFO  DeleteStudentDemo [DeleteStudentDemo.java:34] getting the student from the db with id 2
+2019-02-18 18:55:16,153 INFO  DeleteStudentDemo [DeleteStudentDemo.java:39] deleting student...
+2019-02-18 18:55:16,242 INFO  DeleteStudentDemo [DeleteStudentDemo.java:51] getting getting updated student info Student{id=2, firstName='Mary', lastName='Public', email='foo@gmail.com'}
+2019-02-18 18:55:16,246 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:55:52,302 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 18:55:52,552 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 18:55:52,667 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 18:55:52,671 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 18:55:52,671 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 18:55:52,672 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 18:55:52,674 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 18:55:52,826 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 18:55:53,311 INFO  DeleteStudentDemo [DeleteStudentDemo.java:34] getting the student from the db with id 2
+2019-02-18 18:55:53,331 INFO  DeleteStudentDemo [DeleteStudentDemo.java:40] received student: {}Student{id=2, firstName='Mary', lastName='Public', email='foo@gmail.com'}
+2019-02-18 18:55:53,331 INFO  DeleteStudentDemo [DeleteStudentDemo.java:42] deleting student...
+2019-02-18 18:55:53,401 INFO  DeleteStudentDemo [DeleteStudentDemo.java:54] getting getting updated student info null
+2019-02-18 18:55:53,402 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:32:04,350 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 19:32:04,643 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 19:32:04,762 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 19:32:04,766 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:32:04,766 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 19:32:04,767 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 19:32:04,769 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 19:32:04,907 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 19:32:05,103 INFO  PojoInstantiator [PojoInstantiator.java:47] HHH000182: No default (no-argument) constructor for class: com.bara.hibernate.demo.entity.Employee (class must be instantiated by Interceptor)
+2019-02-18 19:32:05,257 INFO  CRUDwithEmployee [CRUDwithEmployee.java:21] implementing saving of the object
+2019-02-18 19:32:05,257 INFO  CRUDwithEmployee [CRUDwithEmployee.java:25] Creating a new object : Employee{id=0, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:32:05,399 WARN  SqlExceptionHelper [SqlExceptionHelper.java:137] SQL Error: 1054, SQLState: 42S22
+2019-02-18 19:32:05,400 ERROR SqlExceptionHelper [SqlExceptionHelper.java:142] Unknown column 'firstName' in 'field list'
+2019-02-18 19:32:05,403 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:32:05,404 ERROR DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:290] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC
+2019-02-18 19:33:42,097 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 19:33:42,357 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 19:33:42,529 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 19:33:42,533 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:33:42,533 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 19:33:42,534 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 19:33:42,536 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 19:33:42,665 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 19:33:42,871 INFO  PojoInstantiator [PojoInstantiator.java:47] HHH000182: No default (no-argument) constructor for class: com.bara.hibernate.demo.entity.Employee (class must be instantiated by Interceptor)
+2019-02-18 19:33:43,047 INFO  CRUDwithEmployee [CRUDwithEmployee.java:21] implementing saving of the object
+2019-02-18 19:33:43,047 INFO  CRUDwithEmployee [CRUDwithEmployee.java:25] Creating a new object : Employee{id=0, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:33:43,150 INFO  CRUDwithEmployee [CRUDwithEmployee.java:33] Object was saved
+2019-02-18 19:33:43,155 INFO  CRUDwithEmployee [CRUDwithEmployee.java:37] Implementing retrieving of the saved object
+2019-02-18 19:33:43,156 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:35:08,236 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 19:35:08,499 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 19:35:08,623 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 19:35:08,628 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:35:08,628 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 19:35:08,629 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 19:35:08,631 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 19:35:08,761 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 19:35:08,968 INFO  PojoInstantiator [PojoInstantiator.java:47] HHH000182: No default (no-argument) constructor for class: com.bara.hibernate.demo.entity.Employee (class must be instantiated by Interceptor)
+2019-02-18 19:35:09,119 INFO  CRUDwithEmployee [CRUDwithEmployee.java:21] implementing saving of the object
+2019-02-18 19:35:09,120 INFO  CRUDwithEmployee [CRUDwithEmployee.java:25] Creating a new object : Employee{id=0, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:35:09,218 INFO  CRUDwithEmployee [CRUDwithEmployee.java:33] Object was saved
+2019-02-18 19:35:09,223 INFO  CRUDwithEmployee [CRUDwithEmployee.java:37] Implementing retrieving of the saved object
+2019-02-18 19:35:09,229 INFO  DefaultLoadEventListener [DefaultLoadEventListener.java:113] HHH000327: Error performing load command : org.hibernate.InstantiationException: No default constructor for entity:  : com.bara.hibernate.demo.entity.Employee
+2019-02-18 19:35:09,229 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:35:09,230 ERROR DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:290] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC
+2019-02-18 19:37:39,689 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 19:37:39,938 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 19:37:40,061 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 19:37:40,065 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:37:40,066 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 19:37:40,066 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 19:37:40,069 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 19:37:40,207 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 19:37:40,599 INFO  CRUDwithEmployee [CRUDwithEmployee.java:21] implementing saving of the object
+2019-02-18 19:37:40,599 INFO  CRUDwithEmployee [CRUDwithEmployee.java:25] Creating a new object : Employee{id=0, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:37:40,691 INFO  CRUDwithEmployee [CRUDwithEmployee.java:33] Object was saved
+2019-02-18 19:37:40,697 INFO  CRUDwithEmployee [CRUDwithEmployee.java:37] Implementing retrieving of the saved object
+2019-02-18 19:37:40,707 INFO  CRUDwithEmployee [CRUDwithEmployee.java:45] getting the object from the db: Employee{id=8, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:37:40,707 INFO  CRUDwithEmployee [CRUDwithEmployee.java:49] finding the object using 'company' name
+2019-02-18 19:37:40,781 INFO  CRUDwithEmployee [CRUDwithEmployee.java:57] get objects with the company name 'Cargill': [Employee{id=6, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=7, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=8, firstName='Alex', lastName='Bara', company='Cargill'}]
+2019-02-18 19:37:40,782 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:42:43,385 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 19:42:43,639 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 19:42:43,771 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 19:42:43,775 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:42:43,776 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 19:42:43,776 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 19:42:43,778 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 19:42:43,915 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 19:42:44,316 INFO  CRUDwithEmployee [CRUDwithEmployee.java:21] implementing saving of the object
+2019-02-18 19:42:44,316 INFO  CRUDwithEmployee [CRUDwithEmployee.java:25] Creating a new object : Employee{id=0, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:42:44,426 INFO  CRUDwithEmployee [CRUDwithEmployee.java:33] Object was saved
+2019-02-18 19:42:44,432 INFO  CRUDwithEmployee [CRUDwithEmployee.java:37] Implementing retrieving of the saved object
+2019-02-18 19:42:44,444 INFO  CRUDwithEmployee [CRUDwithEmployee.java:45] getting the object from the db: Employee{id=9, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:42:44,444 INFO  CRUDwithEmployee [CRUDwithEmployee.java:49] finding the object using 'company' name
+2019-02-18 19:42:44,551 INFO  CRUDwithEmployee [CRUDwithEmployee.java:57] get objects with the company name 'Cargill': [Employee{id=6, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=7, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=8, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=9, firstName='Alex', lastName='Bara', company='Cargill'}]
+2019-02-18 19:42:44,552 INFO  CRUDwithEmployee [CRUDwithEmployee.java:63] implementing of the deleting of the employee with 8 primary key
+2019-02-18 19:42:44,559 INFO  CRUDwithEmployee [CRUDwithEmployee.java:72] final list of the employees
+2019-02-18 19:42:44,563 INFO  CRUDwithEmployee [CRUDwithEmployee.java:79] final list of the employees
+2019-02-18 19:42:44,564 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:43:22,554 INFO  Version [Version.java:46] HHH000412: Hibernate Core {5.4.1.Final}
+2019-02-18 19:43:22,791 INFO  Version [JavaReflectionManager.java:49] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-02-18 19:43:22,912 WARN  pooling [DriverManagerConnectionProviderImpl.java:72] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-18 19:43:22,916 INFO  pooling [DriverManagerConnectionProviderImpl.java:115] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
+2019-02-18 19:43:22,916 INFO  pooling [DriverManagerConnectionProviderImpl.java:124] HHH10001001: Connection properties: {user=hbstudent, password=****}
+2019-02-18 19:43:22,916 INFO  pooling [DriverManagerConnectionProviderImpl.java:129] HHH10001003: Autocommit mode: false
+2019-02-18 19:43:22,918 INFO  DriverManagerConnectionProviderImpl [DriverManagerConnectionProviderImpl.java:239] HHH000115: Hibernate connection pool size: 1 (min=1)
+2019-02-18 19:43:23,061 INFO  Dialect [Dialect.java:158] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-02-18 19:43:23,454 INFO  CRUDwithEmployee [CRUDwithEmployee.java:21] implementing saving of the object
+2019-02-18 19:43:23,454 INFO  CRUDwithEmployee [CRUDwithEmployee.java:25] Creating a new object : Employee{id=0, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:43:23,558 INFO  CRUDwithEmployee [CRUDwithEmployee.java:33] Object was saved
+2019-02-18 19:43:23,563 INFO  CRUDwithEmployee [CRUDwithEmployee.java:37] Implementing retrieving of the saved object
+2019-02-18 19:43:23,571 INFO  CRUDwithEmployee [CRUDwithEmployee.java:45] getting the object from the db: Employee{id=10, firstName='Alex', lastName='Bara', company='Cargill'}
+2019-02-18 19:43:23,571 INFO  CRUDwithEmployee [CRUDwithEmployee.java:49] finding the object using 'company' name
+2019-02-18 19:43:23,634 INFO  CRUDwithEmployee [CRUDwithEmployee.java:57] get objects with the company name 'Cargill': [Employee{id=6, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=8, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=9, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=10, firstName='Alex', lastName='Bara', company='Cargill'}]
+2019-02-18 19:43:23,634 INFO  CRUDwithEmployee [CRUDwithEmployee.java:63] implementing of the deleting of the employee with 8 primary key
+2019-02-18 19:43:23,642 INFO  CRUDwithEmployee [CRUDwithEmployee.java:72] final list of the employees
+2019-02-18 19:43:23,645 INFO  CRUDwithEmployee [CRUDwithEmployee.java:79] final list of the employees [Employee{id=6, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=9, firstName='Alex', lastName='Bara', company='Cargill'}, Employee{id=10, firstName='Alex', lastName='Bara', company='Cargill'}]
+2019-02-18 19:43:23,646 INFO  pooling [DriverManagerConnectionProviderImpl.java:408] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC]
